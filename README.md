@@ -304,9 +304,9 @@ The React + Vite application can be deployed to Vercel or Netlify.
 5. Deploy and open the resulting public URL.
 6. Test the deployed site on desktop and mobile.
 
-Live URL: Add your verified deployment URL here.
+Live URL: https://vip-numbers-club.vercel.app/
 
-Source repository: Add your repository URL here.
+Source repository: https://github.com/Anand45singh/VIP_NUMBERS_CLUB
 
 ## Future Improvements
 - Connect a secure backend/database for real inventory.
